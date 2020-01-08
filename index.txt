@@ -1,0 +1,21 @@
+<!DOCTYPE  html>
+  <html>
+    <head>
+      <title>My Website</title>
+    </head>
+    <body>
+        <h1>Daena Solak</h1>
+	<button type="button" onclick="alert('Welcome world!')">Click Me!</button>
+
+	<!-- This site is amazing -->
+        <p>Welcome to this site, I hope you enjoy</p>
+	<!-- It is so beautiful -->
+<br>
+      <a href="https://www.buas.nl/">This is a link to the offical BUas website</a>
+      <img src="images/lady_bird_poster.jpg" alt="Poster of Saoirse Ronan as Lady Bird">
+<br>
+	<video width="600" controls>
+	  <source src="Cat.mp4" type="video/mp4">
+	</video>
+    </body>
+  </html>
